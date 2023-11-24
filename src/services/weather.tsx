@@ -1,7 +1,7 @@
 import { Weather } from "../utils/weather.interface";
 
 const apiKey = "def89915564d437898995336232411";
-const apiUrl: string = "http://api.weatherapi.com/v1";
+const apiUrl: string = "https://api.weatherapi.com/v1";
 
 export async function getCityWeather(
   city: string

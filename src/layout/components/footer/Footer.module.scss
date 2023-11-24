@@ -1,0 +1,15 @@
+@import "../../../styles/variables.scss";
+
+.footer {
+  background-color: $backgroundColorLigth;
+
+  .container {
+    margin: 0rem 1.5rem 0rem 1.5rem;
+    height: 2.5rem;
+    flex: auto;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    align-items: center;
+  }
+}

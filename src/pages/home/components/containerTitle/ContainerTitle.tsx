@@ -5,5 +5,5 @@ interface ContainerTitleProps {
 }
 
 export const ContainerTitle = ({ title }: ContainerTitleProps) => (
-  <p className={styles.title}>{title}</p>
+  <p data-testid="container-title" className={styles.title}>{title}</p>
 );

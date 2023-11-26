@@ -4,7 +4,7 @@ function Footer() {
   return (
     <footer className={styles.footer}>
       <div className={styles.container}>
-        <p>C&A Frontend Engineer Assessment</p>
+        <p>Frontend Engineer Assessment</p>
         <p>Made by Fabio Carbone</p>
       </div>
     </footer>

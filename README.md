@@ -1,4 +1,4 @@
-# C&A Frontend Engineer Assessment by Fabio Carbone
+# Frontend Engineer Assessment by Fabio Carbone
 
 Mady with React, Typescript and Vite
 
@@ -17,3 +17,6 @@ VITE_WEATHER_API_KEY=
 
 ### Build:
 - ```npm run build```
+
+### Test:
+- ```npm run test```
